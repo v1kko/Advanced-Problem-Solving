@@ -23,4 +23,6 @@ Game Theory (Finite State Machines)
 
 * [Chomp](http://en.wikipedia.org/wiki/Chomp)
 
+* [21Stones] #TODO
+
 
